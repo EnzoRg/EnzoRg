@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Enzo 👋
 
 Here you can keep up with my most relevant projects 😉
 
