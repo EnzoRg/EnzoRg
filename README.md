@@ -2,8 +2,8 @@
 
 Here you can keep up with my most relevant projects 😉
 
-🌱 I’m currently learning machine learning applications 
-🔭 I’m currently working on python projects 
+-🌱 I’m currently learning machine learning applications 
+-🔭 I’m currently working on python projects 
 <!--
 **EnzoRg/EnzoRg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
