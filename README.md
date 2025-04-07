@@ -1,6 +1,8 @@
 ### Hi, I'm Enzo 👋
 
-Here you can keep up with my most relevant projects 😉
+I'm an Electronic Engineer with experience in the aerospace industry and SAR image processing. Currently, I'm exploring new applications of Edge AI in Deep Learning, Computer Vision, and Large Language Models (LLMs).
+
+Here you can follow some of my most relevant projects 😉
 
 <!--
 * 🌱 I’m currently learning machine learning applications 
