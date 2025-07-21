@@ -1,12 +1,12 @@
 ### Hi, I'm Enzo 👋
 
-Currently, I'm exploring new applications of **Edge AI** in **Deep Learning**, **Computer Vision**, and Large **Language Models (LLMs)** using **NVIDIA technologies**.
+
 
 I'm an **Electronic Engineer** with experience in the aerospace industry, SAR/Optical image processing and analysis, and Edge AI.
 
 My work includes the processing, enhancement, and mosaicking of remote sensing imagery, particularly from Synthetic Aperture Radar (SAR) and optical payloads, for both visualization and analytical purposes.
 
-Currently, I'm exploring new applications of Edge AI in Deep Learning, Computer Vision, and Large Language Models (LLMs) using NVIDIA technologies.
+Currently, I'm exploring new applications of Edge AI in Deep Learning, Computer Vision, and Small Language Models (SLM) using **NVIDIA technologies**.
 
 Here you can follow some of my most relevant projects 😉
 
