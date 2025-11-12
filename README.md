@@ -2,7 +2,7 @@
 
 
 
-I'm an **Electronic Engineer** with experience in the aerospace industry, SAR/Optical image processing and analysis, and Edge AI.
+I'm an **Electronic Engineer** with experience in the aerospace industry, SAR/Optical image processing and data analysis.
 
 <!--My work includes the processing, enhancement, and mosaicking of remote sensing imagery, particularly from Synthetic Aperture Radar (SAR) and optical payloads, for both visualization and analytical purposes.
 
