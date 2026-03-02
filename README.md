@@ -1,3 +1,1 @@
-### Hi, I'm Enzo 👋
-
-Data Scientist focused image processing with experience in the aerospace industry, specializing in remote sensing, SAR and optical image processing, and geospatial data pipelines.
+Data Scientist and Electronic Engineer specializing in satellite image processing, with aerospace industry experience in remote sensing, SAR and optical imagery, and geospatial analytics.
