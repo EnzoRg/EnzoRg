@@ -1,1 +1,1 @@
-Data Scientist and Electronic Engineer specializing in satellite image processing, with aerospace industry experience in remote sensing, SAR and optical imagery, and geospatial analytics.
+Data Scientist and Electronic Engineer focused on image processing, with experience in the aerospace industry, remote sensing, SAR and optical imagery, and geospatial data analysis.
